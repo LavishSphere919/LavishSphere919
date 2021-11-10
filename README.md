@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/93416110/141037031-bcfb2775-a68a-4714-907b-bdce814984f0.png)
 - 👋 Hi, I’m @LavishSphere919 (a.k.a. Ash)
 - 👀 I’m interested in education, and gaming!
 - 🌱 I’m currently learning Python 3.
